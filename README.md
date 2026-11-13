@@ -12,3 +12,14 @@ Generated isolated landmarks and assets for Adelaide and related Mediterranean-i
 - Torrens footbridge
 - Victorian band rotunda
 - Adelaide Central Market in Bloom
+
+## How to get the sprites (for Claude Code)
+A single zip of all sprites will be available as `adelaide_landmarks_sprites.zip.b64`.
+
+After cloning:
+```bash
+base64 -d adelaide_landmarks_sprites.zip.b64 > adelaide_landmarks_sprites.zip
+unzip adelaide_landmarks_sprites.zip
+```
+
+The zip contains the seven PNG/JPG sprites with clean names.
