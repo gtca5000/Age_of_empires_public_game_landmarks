@@ -3,3 +3,12 @@
 Cozy painterly real-time strategy game sprites in Age of Empires II mixed with warm hand-painted storybook style.
 
 Generated isolated landmarks and assets for Adelaide and related Mediterranean-inspired elements.
+
+## Assets
+- Mall's Balls
+- Adelaide Oval
+- Paved cobblestone road
+- Adelaide Zoo entrance (with koala)
+- Torrens footbridge
+- Victorian band rotunda
+- Adelaide Central Market in Bloom
